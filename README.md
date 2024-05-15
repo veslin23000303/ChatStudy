@@ -1,6 +1,6 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
-### Name: A.JEEVITH
-### Reg.NO: 212223240059
+### Name: VESLIN ANISH A
+### Reg.NO: 212223240175
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
@@ -139,10 +139,12 @@ while True:
 
 ## OUTPUT
 ### CLIENT:
-![CLIENT1b](https://github.com/Yuvaranithulasingam/ChatStudy/assets/121418522/3f95deda-6ca6-43ac-aa9e-092e18517720)
+![Screenshot 2024-05-15 095211](https://github.com/veslin23000303/ChatStudy/assets/151148539/f7af673e-7ba4-4a8d-b05a-34e74c98c78a)
+
 
 ### SERVER:
-![SERVER1b](https://github.com/Yuvaranithulasingam/ChatStudy/assets/121418522/d6e024b2-5da1-4fa2-a5ea-c601c8e8addb)
+![Screenshot 2024-05-15 095218](https://github.com/veslin23000303/ChatStudy/assets/151148539/bd14de86-4dc1-49b7-8b98-558abf8e7087)
+
 
 ## Result:
 
